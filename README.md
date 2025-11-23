@@ -2,7 +2,7 @@
 
 Developer portfolio for `fcures`.
 
-Live site: [https://fcures.com](https://fcures.com)
+Site: [https://fcures.com](https://fcures.com)
 
 Repository structure
 
