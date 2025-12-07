@@ -13,7 +13,7 @@ Repository structure
 
 Deployment
 
-- This repository can be hosted on GitHub Pages or any static hosting provider. No build tools are required — just upload the files.
+- This repository can be hosted on GitHub Pages or any static hosting provider. No build tools are required.
 
 Contributing
 
