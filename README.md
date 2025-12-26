@@ -19,4 +19,4 @@ Developer portfolio for `fcures`.
 
 ## Next steps (ideas)
 
-- Add project screenshots and short case studies under `works/`.
+- Add project screenshots in `works/`.
